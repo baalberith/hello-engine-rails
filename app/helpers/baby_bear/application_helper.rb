@@ -1,0 +1,2 @@
+module BabyBear::ApplicationHelper
+end
